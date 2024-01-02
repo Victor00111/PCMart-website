@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PCMart-website/static/css/main.ccc5fb55.css",
+    "main.js": "/PCMart-website/static/js/main.6c5ace3e.js",
+    "static/js/787.9a502bfc.chunk.js": "/PCMart-website/static/js/787.9a502bfc.chunk.js",
+    "static/media/i9-13900k-resize.png": "/PCMart-website/static/media/i9-13900k-resize.c0140cdc3ccc4086bbac.png",
+    "static/media/MSI-RTX3060Ti-resize.png": "/PCMart-website/static/media/MSI-RTX3060Ti-resize.e3fc234fc12998ea05c0.png",
+    "static/media/hdd-resize.png": "/PCMart-website/static/media/hdd-resize.2d26982f2e79902a5ed6.png",
+    "static/media/MSI-MPG-Z490-resize.jpg": "/PCMart-website/static/media/MSI-MPG-Z490-resize.ef9f5c807f519e11b1c4.jpg",
+    "static/media/ASUS ROG STRIX Z790-H-resize.jpg": "/PCMart-website/static/media/ASUS ROG STRIX Z790-H-resize.248b03375b3c2047c210.jpg",
+    "static/media/RAM-Vengeance-ProRGB-16GB-resize.jpeg": "/PCMart-website/static/media/RAM-Vengeance-ProRGB-16GB-resize.4adb5d642ab00699b43d.jpeg",
+    "static/media/Powercolor-Radeon-6600-resize.jpeg": "/PCMart-website/static/media/Powercolor-Radeon-6600-resize.12ae1bb75f0520f04c38.jpeg",
+    "index.html": "/PCMart-website/index.html",
+    "main.ccc5fb55.css.map": "/PCMart-website/static/css/main.ccc5fb55.css.map",
+    "main.6c5ace3e.js.map": "/PCMart-website/static/js/main.6c5ace3e.js.map",
+    "787.9a502bfc.chunk.js.map": "/PCMart-website/static/js/787.9a502bfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc5fb55.css",
+    "static/js/main.6c5ace3e.js"
+  ]
+}
